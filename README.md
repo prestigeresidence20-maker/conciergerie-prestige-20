@@ -93,8 +93,8 @@
       box-shadow: var(--shadow);
     }
     .logo img{
-      width: 74px;
-      height: 74px;
+      width: 150px;
+      height: 150px;
       object-fit: contain;
       display:block;
       filter: drop-shadow(0 10px 24px rgba(0,0,0,.35));
