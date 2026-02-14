@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>prestige residence 20</title>
+  <title> Prestige residence 20</title>
   <meta name="description" content="Conciergerie & Nettoyage haut de gamme — Ajaccio • Porticcio • Coti-Chiavari" />
   <style>
     :root{
